@@ -15,5 +15,6 @@ public class ProcedureTest {
 		// 执行存储过程
 		c.execute();
 		conn.close();
+		//你大爷
 	}
 }
