@@ -20,5 +20,6 @@ public class ParOut {
 		c.execute();
 	    System.out.println (c.getString(2));
 		conn.close();
+		//∫√¥Û“Ø
 	}
 }
