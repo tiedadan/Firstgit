@@ -16,5 +16,6 @@ public class ProcedureTest {
 		c.execute();
 		conn.close();
 		//Äã´óÒ¯
+		//Äã¶ş´óÒ¯
 	}
 }
