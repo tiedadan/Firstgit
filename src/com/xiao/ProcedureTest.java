@@ -17,7 +17,5 @@ public class ProcedureTest {
 		conn.close();
 		//你大爷
 		//你二大爷
-		//你三大爷
-		//meiyou  五大爷
 	}
 }
